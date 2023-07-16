@@ -1,6 +1,8 @@
-# certify
+# Certify Participants
 
-This is a small web application with a form which redirects to a download link. Asks participants to attest to having followed the [Hack Code of Conduct](https://hackcodeofconduct.org/). You can easily modify the [content here](https://github.com/loleg/certify/blob/main/src/components/GetCertified.vue#L18).
+This is a small web application with a form which redirects to a download link. It asks participants to attest to having followed the [Hack Code of Conduct](https://hackcodeofconduct.org/). You can easily modify the [content here](https://github.com/loleg/certify/blob/main/src/components/GetCertified.vue#L18).
+
+There is a basic Google translation widget, which you can modify in the `index.html`
 
 ## What is this?
 
